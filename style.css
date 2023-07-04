@@ -1,0 +1,20 @@
+.container {
+    margin-top: 50px;
+    display:flex;
+   
+  }
+  
+  .product-list .product {
+    margin-bottom: 20px;
+    color: #e22b2b;
+  }
+  
+  .shopping-cart {
+    margin-top: 30px;
+    
+  }
+  
+  .clear-cart-btn {
+    margin-top: 20px;
+  }
+  
